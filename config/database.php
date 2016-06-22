@@ -49,8 +49,8 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'xxxx';
-$db['default']['password'] = 'xxxx';
+$db['default']['username'] = 'root';
+$db['default']['password'] = 'Focus1pointroot';
 $db['default']['database'] = 'cmts';
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = '';
